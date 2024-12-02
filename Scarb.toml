@@ -8,4 +8,5 @@ discription = ""
 second = {path = "packages/second/" }
 
 [dev-dependencies]
-#first = {path = "packages/first/" }
+# uncomment the next line to make the project compile
+#first = {path = "packages/first/" } 
