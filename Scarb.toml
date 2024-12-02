@@ -1,0 +1,11 @@
+[package]
+name = "example"
+version = "0.1.0"
+edition = "2024_07"
+discription = ""
+
+[dependencies]
+second = {path = "packages/second/" }
+
+[dev-dependencies]
+#first = {path = "packages/first/" }
